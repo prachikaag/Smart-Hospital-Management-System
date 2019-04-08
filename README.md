@@ -58,3 +58,4 @@ The LM35 temperature sensor along with KY039 heartbeat sensor is directly connec
 # Github:
 https://github.com/prachikaag/Smart-Hospital-Management-System/edit/master/README.md
 # You-tube:
+https://youtu.be/6ydwuQjBmq0
