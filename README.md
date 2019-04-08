@@ -4,6 +4,7 @@ This system allows us to detect temperature and heartbeat of the  patient from a
 A LM35 sensor is used to detect the temperature and KY039 sensor is used to detect the heartbeat.This project module is a combined integration of NodeMCU ESP8266 and ThinkSpace files. These libraries have been added to the Arduino IDE.
 # Hardware Required:
 · Nodemcu ESP8266 module.
+
 · LM35 Temp Sensor
 · KY039 Heartbeat Sensor
 · Jumper Wires
